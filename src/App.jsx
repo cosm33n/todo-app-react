@@ -48,7 +48,7 @@ function App() {
   return (
     <div className='container'>
       <header>
-        <h1>My Task List</h1>
+        <h1>Task List</h1>
       </header>
       {isEditing && (
         <EditForm
